@@ -1,4 +1,4 @@
-1984,George Orwell,Dystopian,1949
+1984,George Orwell,Fiction,1949
 Pride and Prejudice,Jane Austen,Romance,1813
 The Catcher in the Rye,J.D. Salinger,Coming-of-age,1951
 Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,1997
@@ -7,3 +7,4 @@ The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,1954
 The Hobbit,J.R.R. Tolkien,Fantasy,1937
 The Alchemist,Paulo Coelho,Fiction,1988
 The Great Gatsby,F. Scott Fitzgerald,Classic,1925
+Breaking Dawn,Stephenie Meyer,Romance,2008
